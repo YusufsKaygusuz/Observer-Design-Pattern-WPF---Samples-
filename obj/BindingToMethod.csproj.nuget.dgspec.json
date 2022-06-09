@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MONSTER\\Desktop\\bilgisayar mühendisliği 2.sınıf\\WPF-Samples-master\\WPF-Samples-master\\Data Binding\\BindingToMethod\\BindingToMethod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MONSTER\\Desktop\\bilgisayar mühendisliği 2.sınıf\\WPF-Samples-master\\WPF-Samples-master\\Data Binding\\BindingToMethod\\BindingToMethod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MONSTER\\Desktop\\bilgisayar mühendisliği 2.sınıf\\WPF-Samples-master\\WPF-Samples-master\\Data Binding\\BindingToMethod\\BindingToMethod.csproj",
+        "projectName": "BindingToMethod",
+        "projectPath": "C:\\Users\\MONSTER\\Desktop\\bilgisayar mühendisliği 2.sınıf\\WPF-Samples-master\\WPF-Samples-master\\Data Binding\\BindingToMethod\\BindingToMethod.csproj",
+        "packagesPath": "C:\\Users\\MONSTER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MONSTER\\Desktop\\bilgisayar mühendisliği 2.sınıf\\WPF-Samples-master\\WPF-Samples-master\\Data Binding\\BindingToMethod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MONSTER\\Desktop\\bilgisayar mühendisliği 2.sınıf\\WPF-Samples-master\\WPF-Samples-master\\NuGet.Config",
+          "C:\\Users\\MONSTER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-corefxlab/api/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-coreclr/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-tools-internal/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet5/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
